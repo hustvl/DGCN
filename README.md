@@ -42,7 +42,7 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 * You need to install commonly-used libraries such as Numpy and Pytorch.
-* The CAM seed file you can find in DSRG.
+* The CAM seed file you can find in [DSRG](https://github.com/speedinghzl/DSRG).
 
 
 ### Train
@@ -62,6 +62,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-This code is heavily borrowed from pytorch-deeplab-resnet.
-*[DSRG](https://github.com/speedinghzl/DSRG)
-*[pytorch-deeplab-resnet](https://github.com/speedinghzl/Pytorch-Deeplab)
+This code is heavily borrowed from [pytorch-deeplab-resnet](https://github.com/speedinghzl/Pytorch-Deeplab).
+
