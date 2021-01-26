@@ -26,17 +26,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
+  <h3 align="center">Deep Graph Cut Network for Weakly-supervised Semantic Segmentation</h3>
   <a href="https://github.com/github_username/repo_name">
     <img src="DGCN.png" alt="Logo">
   </a>
-
-  <h3 align="center">Deep Graph Cut Network for Weakly-supervised Semantic Segmentation</h3>
-
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
   </p>
 </p>
 
