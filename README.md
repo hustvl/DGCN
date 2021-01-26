@@ -22,7 +22,7 @@
 -->
 
 
-#Deep Graph Cut Network for Weakly-supervised Semantic Segmentation.
+##Deep Graph Cut Network for Weakly-supervised Semantic Segmentation.
 
 <!-- PROJECT LOGO -->
 <br />
