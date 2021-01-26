@@ -22,11 +22,11 @@
 -->
 
 
+#Deep Graph Cut Network for Weakly-supervised Semantic Segmentation.
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">Deep Graph Cut Network for Weakly-supervised Semantic Segmentation</h3>
   <a href="https://github.com/github_username/repo_name">
     <img src="DGCN.png" alt="Logo">
   </a>
