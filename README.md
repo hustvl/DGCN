@@ -24,6 +24,12 @@
 
 ## Deep Graph Cut Network for Weakly-supervised Semantic Segmentation.
 
+Jiapei Feng, [Xinggang Wang](https://xinggangw.info/), [Wenyu Liu](https://scholar.google.com/citations?user=D7jDk7gAAAAJ&hl=en)
+
+in SCIENCE CHINA Information Sciences (SCIS), Volume 64 , Issue 3 : 130105(2021) https://doi.org/10.1007/s11432-020-3065-4
+
+
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -33,6 +39,20 @@
   </p>
 </p>
 
+
+### Citation
+```
+@article{feng2021deep,
+  title={Deep Graph Cut Network for Weakly-supervised Semantic Segmentation},
+  author={Feng, Jiapei and Wang, Xinggang and Liu Wenyu},
+  journal={Science China Information Sciences},
+  volume={64},
+  number={3},
+  pages={1--13},
+  year={2021},
+  publisher={Science China Press}
+}
+```
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -58,9 +78,9 @@ To get a local copy up and running follow these simple steps.
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
-
-
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 This code is heavily borrowed from [pytorch-deeplab-resnet](https://github.com/speedinghzl/Pytorch-Deeplab).
+
+
 
